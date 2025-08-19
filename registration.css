@@ -1,0 +1,70 @@
+body{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color:rgb(19, 180, 180);
+}
+h2{
+text-align: center;
+}
+form{
+padding: 10px;
+background-color:rgb(194, 137, 32);
+height: 500px;
+margin-left: 350px;
+margin-right: 350px;
+margin-top: 10px;
+border-radius: 20px;
+margin-bottom: 40px;
+}
+lable{
+    display:block;
+    margin: 4px;
+    font-weight:500;
+    font-style: oblique;
+    font-size: larger;
+}  padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+input[type="submit"]{
+    color: rgb(22, 1, 1);
+    background-color:rgb(15, 136, 136);
+    cursor: pointer;
+}
+input[type="submit"]:hover{
+    background-color: rgb(9, 224, 206);
+}
+.registration{
+    width: 590px;
+    margin-;
+}
+input[type="text"], input[type="password"], input[type="tel"], input[type="email"],textarea{
+    padding: 3px;
+    border: 2px solid white;
+    box-sizing:content-box;
+    border-radius:5px;
+    width: 96%;
+}
+select{
+    width: 98%;
+    padding:6px;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+input[type="submit"]{
+    color: rgba(22, 1, 1, 0.952);
+background-color: rgb(15, 189, 145);
+cursor: pointer;
+margin-top: 15px;
+padding: 8px;
+border-radius: 8px;
+margin-left: 20px;
+width: 25%;
+text-size-adjust: 180%;
+font-size: 18px;
+}
+input[type="submit"]:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+  
